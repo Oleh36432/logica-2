@@ -1,0 +1,20 @@
+body{
+    background-color: greenyellow;
+}
+.logo{
+    height: 200px ;
+}
+
+header{
+    text-align: center;
+}
+
+h1{
+   text-align: center; 
+   color: black;
+}
+
+main{
+    max-width: 1000px;
+    margin: 0 auto;
+}
